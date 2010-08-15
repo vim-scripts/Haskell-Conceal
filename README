@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3200
+
+Use some unicode operators in haskell file without changing it.
+
+Require : Vim 7.3 or Vim compiled with the conceal patch
+  
+
